@@ -1,3 +1,9 @@
-node(){
+
+node('mavenm-label'){
+
+stage("prep"){
+}
+
+
 
 }
